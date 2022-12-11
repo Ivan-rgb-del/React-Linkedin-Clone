@@ -1,0 +1,55 @@
+.post {
+  background: white;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.post__header {
+  display: flex;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.icon {
+  background: #ccc;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+  font-size: 20px;
+}
+
+.post__info {
+  margin-left: 10px;
+}
+
+.post__info p {
+  font-size: 12px;
+  color: gray;
+}
+
+.post__info h2 {
+  font-size: 15px;
+}
+
+.post__body {
+  overflow-wrap: anywhere;
+}
+
+.post__buttons {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.post__button {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.post__button h4 {
+  margin-left: 10px;
+  color: gray;
+}
