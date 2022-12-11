@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Linkedin-Clone/static/css/main.fc7c3135.css",
+    "main.js": "/React-Linkedin-Clone/static/js/main.57119875.js",
+    "static/media/Linkedin-Logo.png": "/React-Linkedin-Clone/static/media/Linkedin-Logo.1b4071d0891e44a8d69b.png",
+    "index.html": "/React-Linkedin-Clone/index.html",
+    "main.fc7c3135.css.map": "/React-Linkedin-Clone/static/css/main.fc7c3135.css.map",
+    "main.57119875.js.map": "/React-Linkedin-Clone/static/js/main.57119875.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc7c3135.css",
+    "static/js/main.57119875.js"
+  ]
+}
